@@ -1,7 +1,7 @@
-### Clone this repo
+## Clone this repo
 
-###### To run the app
+### To run the app
 command: docker compose up --build -d
 
-###### To close the app
+### To close the app
 command: docker compose down
